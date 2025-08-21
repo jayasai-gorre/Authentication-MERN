@@ -17,6 +17,6 @@ export const mailtrapClient = new MailtrapClient({
 // Define the sender's email address and name that will be used in the "From" field of emails sent via Mailtrap
 export const sender = {
 	// email: "mailtrap@demomailtrap.com",
-	email: "demomailtrap.co",// The sender's email address (e.g., "no-reply@yourdomain.com")
+	email: "hello@demomailtrap.com",// The sender's email address (e.g., "no-reply@yourdomain.com")
 	name: "TheAtoms",                   // The sender's name (e.g., your application's or organization's name)
 };
